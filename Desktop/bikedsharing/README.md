@@ -23,7 +23,7 @@
 ### Data Preparation-
 > Create dummy variables for all the categorical features. Divide the data to train & Test. Perform Scaling. Divide data into dependent & Independent variables.
 
-###Data Modelling & Evaluation-
+### Data Modelling & Evaluation-
 > Create Linear Regression model using mixed approach (RFE & VIF/p-value). Check the various assumptions. Check the Adjusted R-Square for both train & Test data. Report the final model.
 
 
